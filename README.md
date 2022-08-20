@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shariqshah786
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate with software developers
 - 📫 How to reach me -> shariqshah1235@gmail.com
 
