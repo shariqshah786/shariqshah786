@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shariqshah786
 - 👀 I’m interested in programming 
-- 🌱 I’m currently completed BCA
+- 🌱 I have completed BCA
 - 💞️ I’m looking to collaborate with software developers
 - 📫 How to reach me -> shariqshah9879@gmail.com
 
