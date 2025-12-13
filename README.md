@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shariqshah786
 - 👀 I’m interested in programming 
 - 🌱 I have completed BCA
-- 💞️ I’m looking to collaborate with software developers
+- 💞️ I'm Currently working as a freelancer 
 - 📫 How to reach me -> shariqshah9879@gmail.com
 
 <!---
